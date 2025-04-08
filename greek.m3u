@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MEGA.gr" tvg-name="MEGA" group-title="Greek",MEGA
+http://stream.live.megatv.com/mega/tr.m3u8
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" group-title="Greek",ANT1
+http://ant1streaming.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALPHA.gr" tvg-name="ALPHA" group-title="Greek",ALPHA
+https://dai.google.com/linear/hls/event/alpha/index.m3u8
+
+#EXTINF:-1 tvg-id="SKAI.gr" tvg-name="SKAI" group-title="Greek",SKAI
+http://skai.live/stream.m3u8
+
+#EXTINF:-1 tvg-id="STAR.gr" tvg-name="STAR" group-title="Greek",STAR
+http://starstreaming.tv/stream.m3u8
+
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-name="ERT1" group-title="Greek",ERT1
+https://ert-live-bcbs.akamaized.net/ert1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-name="ERT2" group-title="Greek",ERT2
+https://ert-live-bcbs.akamaized.net/ert2hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" group-title="Greek",ERT3
+https://ert-live-bcbs.akamaized.net/ert3hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OpenTV.gr" tvg-name="OPEN" group-title="Greek",OPEN TV
+https://stream.opentv.gr/live/open_tv.m3u8
+
+#EXTINF:-1 tvg-id="MakedoniaTV.gr" tvg-name="Makedonia TV" group-title="Greek",Makedonia TV
+https://makedoniatv-streaming.gr/live/mtv.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News",BBC News
+https://edgecast.news.bbc.co.uk/edgecast/news.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News",France 24 (EN)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" group-title="Docs",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/hls/live/2003454/nhkworld/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="News",Deutsche Welle (EN)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/master.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network (USA)
+https://cnstreaming.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids",Disney Channel (USA)
+https://disneychannel-live.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids",Nickelodeon (USA)
+https://nickelodeon-live.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="Ionian.gr" tvg-name="Ionian TV" group-title="Greek-Local",Ionian Channel
+http://stream.ioniantv.gr/live/ionian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KRHTH.gr" tvg-name="ΚΡΗΤΗ TV" group-title="Greek-Local",ΚΡΗΤΗ TV
+http://cretetv-live.grnet.gr/stream/live.m3u8
+
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV100" group-title="Greek-Local",TV100
+http://stream.tv100.gr/tv100/live/playlist.m3u8
